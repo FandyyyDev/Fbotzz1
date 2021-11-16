@@ -23,7 +23,7 @@ exports.footerwelkam = footerwelkam
 
 // UCAPAN GOODBYE
 const goodbye = (num, mdata, pushname) => {
-  return `*Good Bye! @${num.split('@')[0]} \nDasar Anak Ngen... *`
+  return `*Good Bye! @${num.split('@')[0]} 👋\nDasar Anak Ngen... 😡*`
   }
 exports.goodbye = goodbye
 
