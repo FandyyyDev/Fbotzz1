@@ -7,9 +7,8 @@
 const ucapan = (num, mdata, pushname) => {
 	return `Hello, @${num.split('@')[0]} 👋
 *Selamat Datang Di _${mdata.subject}_*
-*Mau Gunakan Bot? Donasi Dulu *
-
-- DONT FORGET READ RULES GRUP! -
+*Mau Gunakan Bot? Donasi Dulu 😎*
+*DONT FORGET READ RULES GRUP!*
 
 ~ Thanks`
 }
